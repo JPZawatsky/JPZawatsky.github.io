@@ -1,11 +1,11 @@
 # Site settings
 author: JP Zawatsky
-title: 
+title: Data Destination
 header-img: img/home-bg.png
 email: jpzawatsky@gmail.com
 copyright_name: JP Zawatsky
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Where Data Rules
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JPZawatsky
